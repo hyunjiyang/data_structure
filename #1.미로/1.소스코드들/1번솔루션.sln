@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maze", "final\final.vcxproj", "{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Debug|x64.ActiveCfg = Debug|x64
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Debug|x64.Build.0 = Debug|x64
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Debug|x86.ActiveCfg = Debug|Win32
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Debug|x86.Build.0 = Debug|Win32
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Release|x64.ActiveCfg = Release|x64
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Release|x64.Build.0 = Release|x64
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Release|x86.ActiveCfg = Release|Win32
+		{51BA0C06-FCB1-42FB-87AB-85DD8B1AFD81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A54F2449-6E42-42DC-81C4-1ABDDA1A72D7}
+	EndGlobalSection
+EndGlobal
